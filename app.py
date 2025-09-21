@@ -3,7 +3,7 @@ import requests
 import os
 
 # --- CONFIG ---
-API_KEY = "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"
+API_KEY = "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"
 CHAT_URL = "https://openrouter.ai/api/v1/chat/completions"
 IMAGE_URL = "https://openrouter.ai/api/v1/images/generations"
 MAX_HISTORY = 6  # number of recent messages to send/display
